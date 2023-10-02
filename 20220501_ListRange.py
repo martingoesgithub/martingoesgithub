@@ -1,0 +1,12 @@
+nums = list(range(5))
+print(nums)
+print(nums[0])
+print(nums[1])
+print(nums[2])
+print(nums[3])
+print(nums[4])
+
+numbers = list(range(0,10))
+print(numbers)
+nummern = list(range(2,10))
+print(nummern)
